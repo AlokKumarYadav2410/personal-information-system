@@ -1,0 +1,190 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.heading {
+    position: relative;
+    left: 6vw;
+}
+
+body {
+	background-color: white;
+    background-image: url("images/1.png");
+    background-size: contain;
+}
+
+.btnSubmit {
+    text-decoration: none;
+    position: relative;
+    margin: 10px 50px 0px 0px;
+    padding: 5px 10px 5px 10px;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: white;
+    color: rgb(43, 64, 183);
+    border: 2px solid rgb(43, 64, 183);
+    border-radius: 5px;
+    box-shadow: 6px 6px 8px rgb(92, 92, 92);
+    transition: background-color 0.15s, border 0.15s, color 0.15s, margin 0.15s, box-shadow 0.15s, border 0.15s;
+
+}
+
+.btnSubmit:hover {
+    border: 2px solid rgb(0, 255, 51);
+    background-color: rgb(0, 255, 51);
+    color: white;
+}
+
+.btnSubmit:active {
+    /* margin-left: 185px; */
+    box-shadow: none;
+    background-color: rgb(0, 255, 51);
+    border: 2px solid rgb(0, 255, 51);
+    color: white;
+}
+
+.btn {
+    display: flex;
+    justify-content: flex-end;
+    width: 30vw;
+    margin-top: 20px;
+}
+
+.btnDel:active {
+    /* margin-left: 185px; */
+    box-shadow: none;
+    background-color: rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
+    color: white;
+}
+
+.btnDel:hover {
+    border: 2px solid rgb(253, 3, 3);
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+.name1 {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    margin: 5px 0px 0px 0px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgba(205, 205, 205, 0.427);
+    /* padding-left: 10px; */
+    width: 15vw;
+}
+
+main {
+
+    min-height: calc(120vh - 10vh - 10vh);
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+}
+
+.sub-containers {
+    /* margin: 0px 0px 0px 480px; */
+    padding: 30px 40px 45px 40px;
+    height: 75vh;
+    width: 30vw;
+}
+
+.mg-1 {
+    margin-right: 4vw;
+}
+
+.mg-2 {
+    margin-right: 2vw;
+}
+
+.mg-3 {
+    margin-right: 3vw;
+}
+
+.gender {
+    margin-right: 6vw;
+}
+.hobbie{
+    margin-right: 5vw;
+}
+.email{
+    margin-right: 6.5vw;
+}
+
+
+.txt {
+    /* font-size: large; */
+    margin: 10px;
+    color: rgb(69, 69, 69);
+    /* padding: 10px; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.submit-msg{
+    background-image: linear-gradient(to right top, #09f434a4, #0bf413ad, #68f236af, #80ff00ad, #aeff00ad);
+    width: 30vw;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #011aff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+table {
+	/* margin-left: vw; */
+	border-collapse: collapse;
+	/*background-color: aqua;*/
+	font-weight: bold;
+	width: 28vw;
+	margin: 3vw 5vw 0vw 1vw;
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+	border: 2px solid rgb(0, 0, 0);
+	padding: 5px;
+}
+
+.td-txt{
+       background-image: linear-gradient(to bottom, #00ff44, #6eff30, #9cff1d, #c1ff0b, #e1ff08); 
+}
+.td-txt1{
+      background-image: linear-gradient(to bottom, #3bf9c4, #00f3d9, #00edeb, #00e5f8, #00dcff);
+       }
+       
+       
+.lb1{
+    margin-left: 2.6vw;
+    background-color: rgb(157, 255, 255);
+}
+.lb2{
+    margin-left: 0.5vw;
+}
+
+.up-txt {
+
+    color: rgb(69, 69, 69);
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1-txt h1{
+    margin: 4vw 0px 1vw 0px;
+    text-align:left;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+}
