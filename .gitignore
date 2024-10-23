@@ -1,0 +1,22 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Build directory
+build/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ IDEA specific files (if applicable)
+.idea/
+*.iml
