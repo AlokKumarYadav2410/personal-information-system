@@ -9,7 +9,7 @@ The Personal Information System is a web-based application designed to manage an
 3. [Prerequisites](#prerequisites)
 4. [Screenshots](#screenshots)
 5. [Setup Instructions](#setup-instructions)
-    1. [Clone the repository](#1.clone-the-repository)
+    1. [Clone the repository](#clone-the-repository)
     2. [Import the project into Eclipse](#import-the-project-into-eclipse)
     3. [Configure Tomcat Server in Eclipse](#configure-tomcat-server-in-eclipse)
     4. [Set up MySQL Database](#set-up-mysql-database)
@@ -46,8 +46,8 @@ Before running the project, ensure you have the following installed:
 ## Screenshots
 <p>Few screenshots of the project is mentioned below:-</p>
 
-<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/signup.png" alt="signup" width="48%" /> &nbsp; &nbsp; <img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/signin.png" alt="signin" width="48%" />
-<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/personalInfoScreen.png" alt="personalInfoScreen" width="48%" />&nbsp; &nbsp; <img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/personalInfoUpdate.png" alt="personalInfoUpdate" width="48%" />
+<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/signup.png" alt="signup" width="48%"/>&nbsp;&nbsp;<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/signin.png" alt="signin" width="48%" />
+<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/personalInfoScreen.png" alt="personalInfoScreen" width="48%" />&nbsp;&nbsp;<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/personalInfoUpdate.png" alt="personalInfoUpdate" width="48%" />
 
 ## Setup Instructions
 1. **Clone the repository**:
