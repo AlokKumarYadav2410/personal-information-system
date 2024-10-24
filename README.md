@@ -1,20 +1,24 @@
 # Personal Information System
+The Personal Information System is a web-based application designed to manage and store personal information securely. The system allows users to add, update, delete, and view personal information. It is built using Java and utilizes a MySQL database for data storage. The application is deployed on an Apache Tomcat server.
+
+<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/mainscreen.png" alt="mainscreen" width="98%" />
 
 ## Table of Contents
 1. [Description](#description)
 2. [Technologies Used](#technologies-used)
 3. [Prerequisites](#prerequisites)
-4. [Setup Instructions](#setup-instructions)
-    1. [Clone the repository](#clone-the-repository)
+4. [Screenshots](#screenshots)
+5. [Setup Instructions](#setup-instructions)
+    1. [Clone the repository](#1.clone-the-repository)
     2. [Import the project into Eclipse](#import-the-project-into-eclipse)
     3. [Configure Tomcat Server in Eclipse](#configure-tomcat-server-in-eclipse)
     4. [Set up MySQL Database](#set-up-mysql-database)
     5. [Add MySQL Connector/J to the project](#add-mysql-connectorj-to-the-project)
     6. [Configure Database Connection](#configure-database-connection)
     7. [Deploy and Run the Application](#deploy-and-run-the-application)
-5. [Usage](#usage)
-6. [License](#license)
-7. [Contributing](#contributing)
+6. [Usage](#usage)
+7. [License](#license)
+8. [Contributing](#contributing)
 <!--8. [Contact](#contact)-->
 
 ## Description
@@ -38,6 +42,12 @@ Before running the project, ensure you have the following installed:
 | MySQL Server       | 5.7 or higher | Required to store and manage the application's data.                        |
 | MySQL Connector/J  | 8.0 or higher | JDBC driver for connecting the Java application to the MySQL database.      |
 | Eclipse IDE        | Latest        | Recommended IDE for developing and managing the project.                    |
+
+## Screenshots
+<p>Few screenshots of the project is mentioned below:-</p>
+
+<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/signup.png" alt="signup" width="48%" /> &nbsp; &nbsp; <img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/signin.png" alt="signin" width="48%" />
+<img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/personalInfoScreen.png" alt="personalInfoScreen" width="48%" />&nbsp; &nbsp; <img src="https://github.com/AlokKumarYadav2410/personal-information-system/blob/5a72a5c496f88ed8fb6c1faae7c327449813f277/src/main/webapp/images/personalInfoUpdate.png" alt="personalInfoUpdate" width="48%" />
 
 ## Setup Instructions
 1. **Clone the repository**:
