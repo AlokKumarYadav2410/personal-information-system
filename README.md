@@ -15,7 +15,7 @@
 5. [Usage](#usage)
 6. [License](#license)
 7. [Contributing](#contributing)
-8. [Contact](#contact)
+<!--8. [Contact](#contact)-->
 
 ## Description
 The Personal Information System is a web-based application designed to manage and store personal information securely. The system allows users to add, update, delete, and view personal information. It is built using Java and utilizes a MySQL database for data storage. The application is deployed on an Apache Tomcat server.
@@ -92,5 +92,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
+<!--
 ## Contact
-For any questions or support, please contact [yourname@domain.com](mailto:yourname@domain.com).
+For any questions or support, please contact [yourname@domain.com](mailto:yourname@domain.com). -->
